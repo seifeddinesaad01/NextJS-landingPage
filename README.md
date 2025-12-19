@@ -90,21 +90,7 @@ If your problem or idea has not been addressed yet, feel free to [open a new iss
 
 If you have questions or need help integrating the product please [contact us](https://themefisher.com/contact) instead of opening an issue.
 
-<!-- licence -->
-## 📄License
 
-Copyright (c) 2016 - Present, Designed & Developed by [Themefisher](https://themefisher.com)
-
-**Code License:** Released under the [MIT](https://github.com/themefisher/bigspring-light-nextjs/blob/main/LICENSE) license.
-
-**Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
-
-## 👨‍💻Hire Us
-
-Besides developing unique, blazing-fast Nextjs templates, we also provide customized services. We specialize in creating affordable, high-quality static websites based on Nextjs.
-
-If you need to customize the theme or complete website development from scratch, you can hire us. **Check Our
-[Contact Page](https://themefisher.com/contact)**
 
 ## 👉Nextjs Templates By Us
 
